@@ -11,6 +11,9 @@ and Second, Click: Agregar Marcadores fuera y dentro de las figuras->Add Markers
 
 repeat the same steps to draw a polygone.
 
+This example was tested with: mxn-2.0.18
+Pls download it: https://github.com/mapstraction/mxn/downloads
+
 Author: Hiber Tadeo Moreno Tovilla.-Icebergdelphi
 Villaflores, Chiapas, Mexico ;)
 http://mx.linkedin.com/pub/hiber-tadeo-moreno-tovilla/55/21/8b3
