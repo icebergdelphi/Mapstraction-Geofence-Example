@@ -7,7 +7,7 @@
   <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 	<script src='http://openlayers.org/api/OpenLayers.js'></script>  
 	<script type="text/javascript" src="http://api.maps.yahoo.com/ajaxymap?v=3.8&appid= 46rZ7hXV34HvIGPdyVuvmSIW8yOWwAKfJUpTuW06DINTgOsnHQ1BxdqLh.Bsjkf8BYQQ"></script>
-     <script type="text/javascript" src="mxn.js?(googlev3,google, yahoo, openlayers, cloudmade, microsoft)"></script>
+     	<script type="text/javascript" src="http://mapscripting.com/examples/js/mxn.js?( googlev3, google, yahoo, openlayers, cloudmade, microsoft)"></script>
     <style>
     div#mymap {
         width: 1100px;
