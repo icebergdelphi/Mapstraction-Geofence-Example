@@ -3,7 +3,7 @@ Mapstraction-Geofence-Example
 
 Example of how to create a Geofence using Mapstraction:
 
-Code how to create a Geofence, based in  the next C code link:http://alienryderflex.com/polygon/
+Code about how create a Geofence, based in  the next C code link:http://alienryderflex.com/polygon/
 
 Note: First test drawing the  Circle and then click:Detener Dibujado->Stop Drawing (This is to Stop Drawing)
 
